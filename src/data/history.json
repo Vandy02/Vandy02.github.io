@@ -1,0 +1,52 @@
+[
+    {
+        "role": "Software Engineer",
+        "organization": "Fluxtek",
+        "startDate": "February 2024",
+        "endDate": "Present",
+        "imageSrc": "history/fluxtek.png"
+    },
+    {
+        "role": "Web Developer",
+        "organization": "Changing The Present",
+        "startDate": "February 2023",
+        "endDate": "January 2024",
+        "imageSrc": "history/ctp.png"
+    },
+    {
+        "role": "Business & MS Analyst",
+        "organization": "UHCL",
+        "startDate": "October 2021",
+        "endDate": "December 2022",
+        "imageSrc": "history/uhcl.png"
+    },
+    {
+        "role": "Software Developer Apprentice",
+        "organization": "Baylor College of Medicine",
+        "startDate": "October 2021",
+        "endDate": "December 2022",
+        "imageSrc": "history/baylor.png"
+    },
+    {
+        "role": "SWE Intern",
+        "organization": "Ericsson",
+        "startDate": "March 2020",
+        "endDate": "December 2020",
+        "imageSrc": "history/ericsson.png"
+    },
+    {
+        "role": "Android Developer Trainee",
+        "organization": "RCPL",
+        "startDate": "May 2018",
+        "endDate": "July 2018",
+        "imageSrc": "history/rcpl.png"
+    },
+    {
+        "role": "Web Developer Intern",
+        "organization": "AIESEC",
+        "startDate": "May 2017",
+        "endDate": "July 2017",
+        "imageSrc": "history/aiesec.png"
+    }
+
+]

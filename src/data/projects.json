@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Road Roamer",
+        "imageSrc": "projects/roadroamer.png",
+        "description": "A dynamic car rental app offering custom car selection, seamless Stripe payments, and interactive map functionality.",
+        "skills": ["Next.js", "MongoDB", "Stripe"],
+        "demo": "https://road-roamer.vercel.app/",
+        "source": "https://github.com/vandy02/roadroamer"
+    },
+    {
+        "title": "RDW on Meta Quest 2",
+        "imageSrc": "projects/rdw.png",
+        "description": "Redirected Walking algorithm enables user navigation in a large virtual environment while physically being present in a smaller space.",
+        "skills": ["VR", "Unreal", "Unity"],
+        "demo":"https://vrock.nicepage.io/",
+        "source": "https://assets.nicepagecdn.com/418ba06a/6349995/files/FinalReportRDW.pdf"
+    },
+    {
+        "title": "PolyA Explorer",
+        "imageSrc": "projects/polya.png",
+        "description": "PolyA is a visualization tool where users can query genes and graphically locate a part of the genome.",
+        "skills": ["AWS", "Angular", "Node"],
+        "demo": "http://polya.liuzlab.org/",
+        "source": "http://polya.liuzlab.org/"
+    }
+
+]

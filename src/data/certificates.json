@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Harvard CS50x",
+        "imageSrc": "certificates/harvard.png",
+        "organization": "Harvard University x EdX",
+        "skills": ["C", "HTML", "Scratch"]
+    },
+    {
+        "title": "Advanced C++",
+        "imageSrc": "certificates/c++.png",
+        "organization": "SimpliLearn",
+        "skills": ["C++"]
+    },
+    {
+        "title": ".NET Core",
+        "imageSrc": "certificates/dotnet.png",
+        "organization": "Linkedin Learning",
+        "skills": [".NET"]
+    },
+    {
+        "title": "BA Foundations",
+        "imageSrc": "certificates/iiba.png",
+        "organization": "IIBA",
+        "skills": ["Business Analysis"]
+    },
+    {
+        "title": "CCNA: Intro to Networks",
+        "imageSrc": "certificates/ccna.png",
+        "organization": "Cisco",
+        "skills": ["Ethernet", "IP", "Networks"]
+    },
+    {
+        "title": "Core Java with Android",
+        "imageSrc": "certificates/rcpl.png",
+        "organization": "RCPL",
+        "skills": ["Android Studio", "Java"]
+    },
+    {
+        "title": "Security and Linux Kernel",
+        "imageSrc": "certificates/linux.png",
+        "organization": "The Linux Foundation",
+        "skills": ["Linux", "Git"]
+    },
+    {
+        "title": "CPR/AED/First Aid",
+        "imageSrc": "certificates/cpr.png",
+        "organization": "American Red Cross",
+        "skills": ["First Aid", "CPR", "AED"]
+    },
+    {
+        "title": "SQL (Basic)",
+        "imageSrc": "certificates/sql.png",
+        "organization": "HackerRank",
+        "skills": ["SQL"]
+    }
+
+]

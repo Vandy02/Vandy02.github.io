@@ -1,4 +1,10 @@
 [
+     {
+        "title": "AWS Cloud Technical Essentials",
+        "imageSrc": "certificates/aws.png",
+        "organization": "AWS",
+        "skills": ["Cloud", "AWS", "Networking"]
+    },
     {
         "title": "Harvard CS50x",
         "imageSrc": "certificates/harvard.png",

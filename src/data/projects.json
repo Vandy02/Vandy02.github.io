@@ -22,6 +22,14 @@
         "skills": ["AWS", "Angular", "Node"],
         "demo": "http://polya.liuzlab.org/",
         "source": "http://polya.liuzlab.org/"
-    }
+    },
+     {
+        "title": "Pokedex",
+        "imageSrc": "projects/pokedex.png",
+        "description": "A simple Pokédex application that lets you browse and explore Pokémon data, with an AI-powered feature currently under development.",
+        "skills": ["JavaScript", "AI", "HTML/CSS"],
+        "demo": "https://pokedex-virid-seven.vercel.app/index.html",
+        "source": "https://github.com/Vandy02/pokedex"
+    },
 
 ]

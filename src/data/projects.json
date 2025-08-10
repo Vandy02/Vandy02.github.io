@@ -30,6 +30,6 @@
         "skills": ["JavaScript", "AI", "HTML/CSS"],
         "demo": "https://pokedex-virid-seven.vercel.app/index.html",
         "source": "https://github.com/Vandy02/pokedex"
-    },
+    }
 
 ]
